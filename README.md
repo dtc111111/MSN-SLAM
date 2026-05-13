@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">MSN-SLAM: Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction</h1>
-  <h3 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_PLGSLAM_Progressive_Neural_Scene_Represenation_with_Local_to_Global_Bundle_CVPR_2024_paper.pdf">Paper</a> </h3>
+  <h3 align="center"><a href="https://ieee.submission.researchexchange.com/api/rex/v2/submissionupload/tenant/2/submission/88829be5-0420-42b8-8716-c108b9beed72/content/f2d44992-d4dd-47db-9188-692415491b99/download">Paper</a> </h3>
   <div align="center"></div>
 </p>
 
